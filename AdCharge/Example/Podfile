@@ -1,0 +1,10 @@
+source 'https://github.com/adcharge/Specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+use_frameworks!
+
+target 'AdCharge_Example' do
+
+  pod 'AdCharge'
+
+end
